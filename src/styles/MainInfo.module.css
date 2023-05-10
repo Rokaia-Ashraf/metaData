@@ -1,0 +1,16 @@
+.label-dark {
+    color: white;
+    padding: 0 5px;
+  }
+
+  .departmentLable{
+    margin-right: 5px;
+  }
+
+  .test{
+    padding: auto;
+    padding-right: 5px;
+    text-align: right;
+    column-count: 4;
+    display: flex;
+  }

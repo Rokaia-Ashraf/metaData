@@ -1,0 +1,11 @@
+.login {
+    max-width: 300px;
+    margin: auto;
+    margin-top: 100px;
+  }
+  .loginForgot {
+    float: right;
+  }
+  .loginButton {
+    width: 100%;
+  }
